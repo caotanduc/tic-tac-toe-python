@@ -4,8 +4,8 @@
 
 
 ## What this game look like
-<img src="./readme-assets/menu.png" width="49%"/>
-<img src="./readme-assets/game.png" width="49%"/>
+<img src="./readme-assets/menu.png" />
+<img src="./readme-assets/game.png" />
 
 
 ---
